@@ -1,0 +1,10 @@
+// CMSC 330 Advanced Programming Languages
+// Project 1 Skeleton
+// UMGC CITE
+// August 2021
+
+// Enumerated type that defines the list of tokens
+enum Token {AT, COLOR, END,	HEIGHT, RECTANGLE, RIGHT_TRIANGLE,
+    PARALLELOGRAM, REGULAR_POLYGON, ISOSCELES, TEXT, OFFSET,
+    SIDES, SCENE, WIDTH, COMMA, SEMICOLON, PERIOD, LEFT_PAREN,
+    RADIUS, RIGHT_PAREN, IDENTIFIER, NUMBER, STRING, EOF}
